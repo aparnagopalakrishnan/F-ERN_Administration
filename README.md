@@ -1,0 +1,2 @@
+# F-ERN_Administration
+Modern world facing a severe issue that the expediture is higher than that of the income. This will destroy the economic equilibrium of a family. Our project briefly discussess about the practical solution for this problem. F-ERN(Family Expenditure and Retrieval Network) Administration is the core of this project which contains the module such as user management, zone managemnet, product management, request management and report and auditing.
